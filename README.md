@@ -1,9 +1,8 @@
-# Flutter Text-to-Speech (TTS) App
+## Flutter Text-to-Speech (TTS) App
 
 ## Plugin Used
 
-- [flutter_tts](https://pub.dev/packages/flutter_tts)
-  Flutter TTS is a Flutter plugin incorporating text-to-speech capabilities into your Flutter app.
+- [flutter_tts](https://pub.dev/packages/flutter_tts) : Flutter TTS is a Flutter plugin incorporating text-to-speech capabilities into your Flutter app.
 
 ## Features
 
